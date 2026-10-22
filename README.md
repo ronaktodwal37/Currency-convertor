@@ -11,7 +11,7 @@ A responsive and user-friendly **Currency Converter web application** that allow
 * ⚡ Fast and simple user experience
 * 🎯 Clean and intuitive interface
 
-**Tech Stack:** React JS
+**Tech Stack:** React JS and Javascript 
 
 
 
