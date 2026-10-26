@@ -1,6 +1,6 @@
 ### Currency Converter
 
-A responsive and user-friendly **Currency Converter web application** that allows users to quickly convert amounts between different international currencies.  application provides a clean interface, supports multiple currencies, and dynamically calculates conversion values using real-time exchange rates.
+A responsive and user-friendly **Currency Converter web application** that allows users to quickly convert amounts between different international currencies. This  application provides a clean interface, supports multiple currencies, and dynamically calculates conversion values using real-time exchange rates.
 
 **Key Features:**
 
